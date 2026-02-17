@@ -1,5 +1,7 @@
+protobuf==3.20.3
+streamlit
 numpy
 pandas
 seaborn
 matplotlib
-tensorflow
+tensorflow==2.15.0
